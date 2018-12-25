@@ -1,6 +1,6 @@
 # Tour-Guide-App
 
-•	Project Tour Guide of Android Basics Nanodegree
+•	Tour Guide App project
 
 ## Features Used
 •	ViewPager.
@@ -22,7 +22,7 @@
 
 ## PROJECT LICENSE
 
-This project was submitted by Deepank Mehta as part of the Nanodegree At Udacity.
+This project was submitted by Deepank Mehta.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
